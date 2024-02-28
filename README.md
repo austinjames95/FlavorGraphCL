@@ -93,3 +93,10 @@ Please, report bugs and missing info to Donghyeon `parkdh (at) sejong.ac.kr`.
 
 ## License
 Apache License 2.0
+
+## Changes Made
+Added def export_embeddings_to_csv(embeddings, output_file):
+This callable function will create a file csv file that contains vector data for given foods.
+
+## Link to Preset data
+https://drive.google.com/file/d/1eE4goYJxfgNl2gbbreHSYJ6daveC9Mz1/view?usp=drive_link
